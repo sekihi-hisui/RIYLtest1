@@ -1,0 +1,1 @@
+execute facing entity @p[gamemode=!creative,gamemode=!spectator,distance=..20] feet rotated ~ 0 run tp @s ~ ~ ~ ~ ~
