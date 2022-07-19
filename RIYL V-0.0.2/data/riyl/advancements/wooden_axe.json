@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:wooden_axe"
+      }
+    }
+  },
+  "rewards": {
+    "function": "riyl:item/craft/vanira/axe/wooden"
+  }
+}

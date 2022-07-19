@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "riyl:job"
+      }
+    }
+  },
+  "rewards": {
+    "function": "riyl:item/craft/riyl/job"
+  }
+}

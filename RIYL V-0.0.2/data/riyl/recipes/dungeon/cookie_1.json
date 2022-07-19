@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "CQC",
+        "#C#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:jungle_leaves"
+        },
+        "C": {
+            "item": "minecraft:cookie"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        }
+    },
+    "result": {
+        "item": "minecraft:chest",
+        "count": 1
+    }
+}

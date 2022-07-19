@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:netherite_sword"
+      }
+    }
+  },
+  "rewards": {
+    "function": "riyl:item/craft/vanira/sword/netherite"
+  }
+}

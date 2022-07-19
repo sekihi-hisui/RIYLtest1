@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "riyl:dungeon/cookie_1"
+      }
+    }
+  },
+  "rewards": {
+    "function": "riyl:item/craft/dungeon/cookie_1"
+  }
+}
